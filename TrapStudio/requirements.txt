@@ -1,0 +1,5 @@
+kokoro-onnx==0.6.1
+onnxruntime==1.32.0
+numpy==2.5.5; python_version >= "3.12"
+numpy==2.2.6; python_version == "3.11"
+cairocffi==1.7.1

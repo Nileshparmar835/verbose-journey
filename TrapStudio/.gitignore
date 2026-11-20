@@ -1,0 +1,24 @@
+# Local Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Recreated by bootstrap.sh
+/wheels/
+/models/kokoro-v1.0.int8.onnx
+/models/model-*
+
+# Local configuration
+.env
+.env.*
+!.env.example
+/.claude/settings.local.json
+
+# Temporary previews and distribution archives in the project root
+/output/motion-test.mp4
+/*.zip
+
+# Desktop metadata
+.DS_Store
+Thumbs.db

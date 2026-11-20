@@ -1,0 +1,10 @@
+# Make a Stickbits trap explainer
+
+Start from this extracted folder. The finished example is `output/The_Empty_Hole.mp4`. Keep it available as a visual and timing reference. For a new episode, work in a sibling copy of the project so the original remains available for comparisons.
+
+1. Read both `.claude/skills/*/SKILL.md` files and `docs/reference-analysis.md`. When used in Claude chat, explicitly open these paths in the execution sandbox. In Claude Code they are project skills.
+2. Run `bash bootstrap.sh`. It checks native tools, installs the Python dependencies locally, verifies the model and runs real Hindi speech inference. Read the error if the host blocks a native install, disk write or download.
+3. Use the writer for a fictional animal choice, a repeated action with changing evidence and one human example. Present five opening lines internally, then select the one a viewer can understand while muted. Keep the same narrator unless the user changes it. Write lines that a friend could say out loud. Use the same Kokoro Hindi hf_beta preset at 1.01× for the whole episode. Let punctuation and complete spoken phrases carry the expression. Time the picture to the voice recording.
+4. The speech and timing source is `episode/story.json`. Use each action as a production instruction. Change drawings, camera framing, state changes and Foley in the Python director for each new topic. Maintain the clock, camera and prop continuity in `docs/cue-sheet.csv` or its new-episode equivalent.
+5. Run `bash build.sh voice` after changing words. Render a four-second test with `bash build.sh preview`, inspect the opening and revise. Then run `bash build.sh render`. A single `bash build.sh all` rebuilds all audio, timing, captions and the final video.
+6. Inspect the final encoded frames around the anchor word, human pivot and last action. Return the playable MP4 and an editable project ZIP when requested. Cite the result in `docs/export-check.json`. Tell the user what was actually rendered and which environment was tested.
