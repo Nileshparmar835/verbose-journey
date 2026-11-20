@@ -1,0 +1,16 @@
+{
+  "width": 720,
+  "height": 1280,
+  "fps": 30,
+  "frames": 2812,
+  "video_seconds": 93.733333,
+  "audio_seconds": 93.712,
+  "codec": "H.264 + AAC",
+  "voice": "Kokoro v1.0 INT8 / hf_beta / hi",
+  "scenes": 26,
+  "timed_words": 266,
+  "human_pivot": 63.591166666666666,
+  "lufs": -16.53,
+  "true_peak_dbtp": -1.68,
+  "full_decode": "passed"
+}

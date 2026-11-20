@@ -1,0 +1,462 @@
+[
+  {
+    "id": "hook",
+    "speech": "पीछे देखो, मेवा गिरा! और ये देखो, अभी भी खोद रही है।",
+    "roman": "Peechhe dekho, meva gira! Aur ye dekho, abhi bhi khod rahi hai.",
+    "cue_word": "गिरा",
+    "action": "One shiny acorn falls behind a squirrel already digging.",
+    "pause": 0.18,
+    "phrases": [
+      {
+        "hi": "पीछे देखो, मेवा गिरा!",
+        "roman": "Peechhe dekho, meva gira!",
+        "hold": 0.17
+      },
+      {
+        "hi": "और ये देखो, अभी भी खोद रही है।",
+        "roman": "Aur ye dekho, abhi bhi khod rahi hai.",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "ignore",
+    "speech": "भूखी तो है। फिर इसे वहाँ ऐसा क्या मिल गया?",
+    "roman": "Bhookhi toh hai. Phir ise wahaan aisa kya mil gaya?",
+    "cue_word": "भूखी",
+    "action": "She hears the landing, looks up, then peers straight back down.",
+    "pause": 0.48,
+    "phrases": [
+      {
+        "hi": "भूखी तो है।",
+        "roman": "Bhookhi toh hai.",
+        "hold": 0.19
+      },
+      {
+        "hi": "फिर इसे वहाँ ऐसा क्या मिल गया?",
+        "roman": "Phir ise wahaan aisa kya mil gaya?",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "mark",
+    "speech": "सुबह की बात है। मिट्टी पर एक छोटा सा निशान था।",
+    "roman": "Subah ki baat hai. Mitti par ek chhota sa nishaan tha.",
+    "cue_word": "निशान",
+    "action": "Morning flashback. A peeled twig forms a cross in the soil.",
+    "pause": 0.13,
+    "phrases": [
+      {
+        "hi": "सुबह की बात है। मिट्टी पर एक छोटा सा निशान था।",
+        "roman": "Subah ki baat hai. Mitti par ek chhota sa nishaan tha.",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "wind",
+    "speech": "हवा चली तो निशान की एक टहनी सरक गई।",
+    "roman": "Hawa chali toh nishaan ki ek tahni sarak gayi.",
+    "cue_word": "टहनी",
+    "action": "A breeze moves one of the crossed twigs. She misses the clue.",
+    "pause": 0.19,
+    "phrases": [
+      {
+        "hi": "हवा चली तो निशान की एक टहनी सरक गई।",
+        "roman": "Hawa chali toh nishaan ki ek tahni sarak gayi.",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "guess",
+    "speech": "पर इसे लगा, अरे, अपने मेवे तो मैंने यहीं दबाए थे!",
+    "roman": "Par ise laga, Arey, apne meve toh maine yahin dabaaye the!",
+    "cue_word": "मेवे",
+    "action": "A thought bubble shows three acorns underneath the mark.",
+    "pause": 0.22,
+    "phrases": [
+      {
+        "hi": "पर इसे लगा,",
+        "roman": "Par ise laga,",
+        "hold": 0.06
+      },
+      {
+        "hi": "अरे, अपने मेवे तो मैंने यहीं दबाए थे!",
+        "roman": "Arey, apne meve toh maine yahin dabaaye the!",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "dig",
+    "speech": "पंजा मारा। निकला क्या? एक कीड़ा।",
+    "roman": "Panja maara. Nikla kya? Ek keeda.",
+    "cue_word": "कीड़ा",
+    "action": "Dirt flies and one worm pokes out, holds, then ducks.",
+    "pause": 0.25,
+    "phrases": [
+      {
+        "hi": "पंजा मारा। निकला क्या?",
+        "roman": "Panja maara. Nikla kya?",
+        "hold": 0.26
+      },
+      {
+        "hi": "एक कीड़ा।",
+        "roman": "Ek keeda.",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "rain",
+    "speech": "इतने में, पीछे की डाल से एक और मेवा टपका।",
+    "roman": "Itne mein, peechhe ki daal se ek aur meva tapka.",
+    "cue_word": "टपका",
+    "action": "Follow a single falling acorn to the patch of grass.",
+    "pause": 0.14,
+    "phrases": [
+      {
+        "hi": "इतने में, पीछे की डाल से एक और मेवा टपका।",
+        "roman": "Itne mein, peechhe ki daal se ek aur meva tapka.",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "look",
+    "speech": "इस बार आवाज़ सुनकर मुड़ी। बस दो छलाँग लगानी थीं।",
+    "roman": "Is baar aawaaz sunkar mudi. Bas do chhalaang lagaani thin.",
+    "cue_word": "दो",
+    "action": "She pivots toward the acorn. Hold the clear path between them.",
+    "pause": 0.28,
+    "phrases": [
+      {
+        "hi": "इस बार आवाज़ सुनकर मुड़ी।",
+        "roman": "Is baar aawaaz sunkar mudi.",
+        "hold": 0.12
+      },
+      {
+        "hi": "बस दो छलाँग लगानी थीं।",
+        "roman": "Bas do chhalaang lagaani thin.",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "return",
+    "speech": "फिर अपने पंजे देखे। इतना खोद लिया, अब चली जाऊँ?",
+    "roman": "Phir apne panje dekhe. Itna khod liya, ab chali jaaun?",
+    "cue_word": "पंजे",
+    "action": "Close on dirty paws. Her gaze darts back to the hole.",
+    "pause": 0.15,
+    "phrases": [
+      {
+        "hi": "फिर अपने पंजे देखे।",
+        "roman": "Phir apne panje dekhe.",
+        "hold": 0.16
+      },
+      {
+        "hi": "इतना खोद लिया, अब चली जाऊँ?",
+        "roman": "Itna khod liya, ab chali jaaun?",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "bargain",
+    "speech": "पंजों से मिट्टी झड़ रही थी। सोचा, बस थोड़ा सा और।",
+    "roman": "Panjon se mitti jhad rahi thi. Socha, bas thoda sa aur.",
+    "cue_word": "मिट्टी",
+    "action": "She compares her paws with the easy meal. Mud falls from her claws.",
+    "pause": 0.15,
+    "phrases": [
+      {
+        "hi": "पंजों से मिट्टी झड़ रही थी।",
+        "roman": "Panjon se mitti jhad rahi thi.",
+        "hold": 0.1
+      },
+      {
+        "hi": "सोचा, बस थोड़ा सा और।",
+        "roman": "Socha, bas thoda sa aur.",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "deeper",
+    "speech": "एक परत और हटी। और नीचे? पत्थर।",
+    "roman": "Ek parat aur hati. Aur neeche? Patthar.",
+    "cue_word": "पत्थर",
+    "action": "The near paw hits a slate stone. A tiny impact line punctuates the beat.",
+    "pause": 0.24,
+    "phrases": [
+      {
+        "hi": "एक परत और हटी। और नीचे?",
+        "roman": "Ek parat aur hati. Aur neeche?",
+        "hold": 0.24
+      },
+      {
+        "hi": "पत्थर।",
+        "roman": "Patthar.",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "push",
+    "speech": "पत्थर भी हटाया। अब छोड़ना और मुश्किल लग रहा था।",
+    "roman": "Patthar bhi hataaya. Ab chhodna aur mushkil lag raha tha.",
+    "cue_word": "हटाया",
+    "action": "The rock rolls onto the mound. The pile gets taller.",
+    "pause": 0.2,
+    "phrases": [
+      {
+        "hi": "पत्थर भी हटाया। अब छोड़ना और मुश्किल लग रहा था।",
+        "roman": "Patthar bhi hataaya. Ab chhodna aur mushkil lag raha tha.",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "dusk",
+    "speech": "शाम हो गई। उधर एक मेवे के बगल में तीन और गिर चुके थे।",
+    "roman": "Shaam ho gayi. Udhar ek meve ke bagal mein teen aur gir chuke the.",
+    "cue_word": "तीन",
+    "action": "Lower the sun. Three new acorns land beside the first.",
+    "pause": 0.2,
+    "phrases": [
+      {
+        "hi": "शाम हो गई। उधर एक मेवे के बगल में तीन और गिर चुके थे।",
+        "roman": "Shaam ho gayi. Udhar ek meve ke bagal mein teen aur gir chuke the.",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "visitor",
+    "speech": "एक चिड़िया आई, मेवा उठाया और फुर्र से उड़ गई।",
+    "roman": "Ek chidiya aayi, meva uthaaya aur furr se ud gayi.",
+    "cue_word": "चिड़िया",
+    "action": "A teal bird swoops to the visible pile, takes one and exits.",
+    "pause": 0.15,
+    "phrases": [
+      {
+        "hi": "एक चिड़िया आई, मेवा उठाया और फुर्र से उड़ गई।",
+        "roman": "Ek chidiya aayi, meva uthaaya aur furr se ud gayi.",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "shadow",
+    "speech": "उसकी परछाईं गड्ढे पर पड़ी तो गिलहरी ने सिर उठाया।",
+    "roman": "Uski parchhaai gaddhe par padi toh gilhari ne sir uthaaya.",
+    "cue_word": "परछाईं",
+    "action": "Cast a fleeting bird shadow across the hole.",
+    "pause": 0.22,
+    "phrases": [
+      {
+        "hi": "उसकी परछाईं गड्ढे पर पड़ी तो गिलहरी ने सिर उठाया।",
+        "roman": "Uski parchhaai gaddhe par padi toh gilhari ne sir uthaaya.",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "stay",
+    "speech": "मेवे उसे भी दिखे। फिर भी बैठी रही, वहीं।",
+    "roman": "Meve use bhi dikhe. Phir bhi baithi rahi, wahin.",
+    "cue_word": "वहीं",
+    "action": "Hold on the animal watching the bird go. She sinks back into the hole.",
+    "pause": 0.27,
+    "phrases": [
+      {
+        "hi": "मेवे उसे भी दिखे। फिर भी बैठी रही, वहीं।",
+        "roman": "Meve use bhi dikhe. Phir bhi baithi rahi, wahin.",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "why",
+    "speech": "पता है क्यों?",
+    "roman": "Pata hai kyon?",
+    "cue_word": "क्यों",
+    "action": "Pull in on her face and leave space for the question.",
+    "pause": 0.46,
+    "phrases": [
+      {
+        "hi": "पता है क्यों?",
+        "roman": "Pata hai kyon?",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "proof",
+    "speech": "अब उसे भूख से ज़्यादा इस बात की चुभन थी। कहीं सुबह से गलत जगह तो नहीं खोद रही थी?",
+    "roman": "Ab use bhookh se zyaada is baat ki chubhan thi. Kahin subah se galat jagah toh nahin khod rahi thi?",
+    "cue_word": "गलत",
+    "action": "Tilt down to the empty pit. Show the clean slice of earth.",
+    "pause": 0.39,
+    "phrases": [
+      {
+        "hi": "अब उसे भूख से ज़्यादा इस बात की चुभन थी।",
+        "roman": "Ab use bhookh se zyaada is baat ki chubhan thi.",
+        "hold": 0.19
+      },
+      {
+        "hi": "कहीं सुबह से गलत जगह तो नहीं खोद रही थी?",
+        "roman": "Kahin subah se galat jagah toh nahin khod rahi thi?",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "human",
+    "speech": "अच्छा, तुम्हारे साथ कभी सिनेमा में ऐसा हुआ है? फ़िल्म शुरू हुई।",
+    "roman": "Achha, tumhaare saath kabhi cinema mein aisa hua hai? Film shuru hui.",
+    "cue_word": "फ़िल्म",
+    "action": "Match the round hole to a reel. Reveal a bored viewer and ticket.",
+    "pause": 0.2,
+    "phrases": [
+      {
+        "hi": "अच्छा, तुम्हारे साथ कभी सिनेमा में ऐसा हुआ है?",
+        "roman": "Achha, tumhaare saath kabhi cinema mein aisa hua hai?",
+        "hold": 0.18
+      },
+      {
+        "hi": "फ़िल्म शुरू हुई।",
+        "roman": "Film shuru hui.",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "ticket",
+    "speech": "बीस मिनट बीते, और मन किया कि यार, घर चलें।",
+    "roman": "Bees minute beete, aur man kiya ki yaar, ghar chalen.",
+    "cue_word": "बीस",
+    "action": "The clock advances to twenty minutes. The viewer slumps.",
+    "pause": 0.2,
+    "phrases": [
+      {
+        "hi": "बीस मिनट बीते, और मन किया कि यार, घर चलें।",
+        "roman": "Bees minute beete, aur man kiya ki yaar, ghar chalen.",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "paid",
+    "speech": "दरवाज़ा खुला है। तभी टिकट पर नज़र गई। तीन सौ रुपये दिए हैं!",
+    "roman": "Darwaaza khula hai. Tabhi ticket par nazar gayi. Teen sau rupaye diye hain!",
+    "cue_word": "तीन",
+    "action": "The exit glows. Push in on the three-hundred-rupee ticket.",
+    "pause": 0.17,
+    "phrases": [
+      {
+        "hi": "दरवाज़ा खुला है। तभी टिकट पर नज़र गई।",
+        "roman": "Darwaaza khula hai. Tabhi ticket par nazar gayi.",
+        "hold": 0.14
+      },
+      {
+        "hi": "तीन सौ रुपये दिए हैं!",
+        "roman": "Teen sau rupaye diye hain!",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "refund",
+    "speech": "पर तुम उठो या बैठे रहो, वो पैसे तो जा चुके।",
+    "roman": "Par tum utho ya baithe raho, woh paise toh jaa chuke.",
+    "cue_word": "पैसे",
+    "action": "Hold on a crumpled, already-torn ticket stub.",
+    "pause": 0.18,
+    "phrases": [
+      {
+        "hi": "पर तुम उठो या बैठे रहो, वो पैसे तो जा चुके।",
+        "roman": "Par tum utho ya baithe raho, woh paise toh jaa chuke.",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "choice",
+    "speech": "अब जो जा सकता है, वो तुम्हारा अगला घंटा है।",
+    "roman": "Ab jo jaa sakta hai, woh tumhaara agla ghanta hai.",
+    "cue_word": "घंटा",
+    "action": "The ticket stays the same as the clock sweeps onward.",
+    "pause": 0.3,
+    "phrases": [
+      {
+        "hi": "अब जो जा सकता है, वो तुम्हारा अगला घंटा है।",
+        "roman": "Ab jo jaa sakta hai, woh tumhaara agla ghanta hai.",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "name",
+    "speech": "यही है संक कॉस्ट का जाल।",
+    "roman": "Yahi hai sunk cost ka jaal.",
+    "cue_word": "जाल",
+    "action": "The ticket and empty hole rhyme in a split composition.",
+    "pause": 0.18,
+    "phrases": [
+      {
+        "hi": "यही है संक कॉस्ट का जाल।",
+        "roman": "Yahi hai sunk cost ka jaal.",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "test",
+    "speech": "सोचो, टिकट मुफ़्त मिला होता, तो अभी भी बैठे रहते?",
+    "roman": "Socho, ticket muft mila hota, toh abhi bhi baithe rehte?",
+    "cue_word": "मुफ़्त",
+    "action": "The viewer looks at the door, stands up, then takes a step out.",
+    "pause": 0.36,
+    "phrases": [
+      {
+        "hi": "सोचो, टिकट मुफ़्त मिला होता,",
+        "roman": "Socho, ticket muft mila hota,",
+        "hold": 0.15
+      },
+      {
+        "hi": "तो अभी भी बैठे रहते?",
+        "roman": "toh abhi bhi baithe rehte?",
+        "hold": 0
+      }
+    ]
+  },
+  {
+    "id": "end",
+    "speech": "और गिलहरी? उसने पंजे झाड़े, पीछे मुड़ी। खाना तो वहीं था।",
+    "roman": "Aur gilhari? Usne panje jhaade, peechhe mudi. Khaana toh wahin tha.",
+    "cue_word": "पीछे",
+    "action": "She dusts both paws, turns, picks up the acorn from the opening and takes a bite.",
+    "pause": 0.65,
+    "phrases": [
+      {
+        "hi": "और गिलहरी?",
+        "roman": "Aur gilhari?",
+        "hold": 0.2
+      },
+      {
+        "hi": "उसने पंजे झाड़े, पीछे मुड़ी।",
+        "roman": "Usne panje jhaade, peechhe mudi.",
+        "hold": 0.16
+      },
+      {
+        "hi": "खाना तो वहीं था।",
+        "roman": "Khaana toh wahin tha.",
+        "hold": 0
+      }
+    ]
+  }
+]

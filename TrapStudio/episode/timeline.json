@@ -1,0 +1,2214 @@
+[
+  {
+    "id": "hook",
+    "speech": "पीछे देखो, मेवा गिरा! और ये देखो, अभी भी खोद रही है।",
+    "roman": "Peechhe dekho, meva gira! Aur ye dekho, abhi bhi khod rahi hai.",
+    "cue_word": "गिरा",
+    "action": "One shiny acorn falls behind a squirrel already digging.",
+    "pause": 0.18,
+    "phrases": [
+      {
+        "hi": "पीछे देखो, मेवा गिरा!",
+        "roman": "Peechhe dekho, meva gira!",
+        "hold": 0.17
+      },
+      {
+        "hi": "और ये देखो, अभी भी खोद रही है।",
+        "roman": "Aur ye dekho, abhi bhi khod rahi hai.",
+        "hold": 0
+      }
+    ],
+    "start": 0.0,
+    "speech_end": 4.064541666666667,
+    "end": 4.244541666666667,
+    "cue": 1.33246,
+    "words": [
+      {
+        "hi": "पीछे",
+        "text": "Peechhe",
+        "start": 0.03246,
+        "end": 0.40746
+      },
+      {
+        "hi": "देखो,",
+        "text": "dekho,",
+        "start": 0.45746,
+        "end": 0.90746
+      },
+      {
+        "hi": "मेवा",
+        "text": "meva",
+        "start": 0.98246,
+        "end": 1.28246
+      },
+      {
+        "hi": "गिरा!",
+        "text": "gira!",
+        "start": 1.33246,
+        "end": 1.65433
+      },
+      {
+        "hi": "और",
+        "text": "Aur",
+        "start": 1.91767,
+        "end": 2.09267
+      },
+      {
+        "hi": "ये",
+        "text": "ye",
+        "start": 2.14267,
+        "end": 2.24267
+      },
+      {
+        "hi": "देखो,",
+        "text": "dekho,",
+        "start": 2.29267,
+        "end": 2.76767
+      },
+      {
+        "hi": "अभी",
+        "text": "abhi",
+        "start": 2.81767,
+        "end": 3.06767
+      },
+      {
+        "hi": "भी",
+        "text": "bhi",
+        "start": 3.11767,
+        "end": 3.29267
+      },
+      {
+        "hi": "खोद",
+        "text": "khod",
+        "start": 3.36767,
+        "end": 3.61767
+      },
+      {
+        "hi": "रही",
+        "text": "rahi",
+        "start": 3.64267,
+        "end": 3.86767
+      },
+      {
+        "hi": "है।",
+        "text": "hai.",
+        "start": 3.91767,
+        "end": 4.06454
+      }
+    ]
+  },
+  {
+    "id": "ignore",
+    "speech": "भूखी तो है। फिर इसे वहाँ ऐसा क्या मिल गया?",
+    "roman": "Bhookhi toh hai. Phir ise wahaan aisa kya mil gaya?",
+    "cue_word": "भूखी",
+    "action": "She hears the landing, looks up, then peers straight back down.",
+    "pause": 0.48,
+    "phrases": [
+      {
+        "hi": "भूखी तो है।",
+        "roman": "Bhookhi toh hai.",
+        "hold": 0.19
+      },
+      {
+        "hi": "फिर इसे वहाँ ऐसा क्या मिल गया?",
+        "roman": "Phir ise wahaan aisa kya mil gaya?",
+        "hold": 0
+      }
+    ],
+    "start": 4.244541666666667,
+    "speech_end": 7.477833333333334,
+    "end": 7.957833333333333,
+    "cue": 4.35258,
+    "words": [
+      {
+        "hi": "भूखी",
+        "text": "Bhookhi",
+        "start": 4.35258,
+        "end": 4.77758
+      },
+      {
+        "hi": "तो",
+        "text": "toh",
+        "start": 4.85258,
+        "end": 5.00258
+      },
+      {
+        "hi": "है।",
+        "text": "hai.",
+        "start": 5.05258,
+        "end": 5.31137
+      },
+      {
+        "hi": "फिर",
+        "text": "Phir",
+        "start": 5.5455,
+        "end": 5.7455
+      },
+      {
+        "hi": "इसे",
+        "text": "ise",
+        "start": 5.7705,
+        "end": 5.9955
+      },
+      {
+        "hi": "वहाँ",
+        "text": "wahaan",
+        "start": 6.0455,
+        "end": 6.3455
+      },
+      {
+        "hi": "ऐसा",
+        "text": "aisa",
+        "start": 6.4205,
+        "end": 6.7705
+      },
+      {
+        "hi": "क्या",
+        "text": "kya",
+        "start": 6.8205,
+        "end": 6.9705
+      },
+      {
+        "hi": "मिल",
+        "text": "mil",
+        "start": 7.0205,
+        "end": 7.1705
+      },
+      {
+        "hi": "गया?",
+        "text": "gaya?",
+        "start": 7.2205,
+        "end": 7.47783
+      }
+    ]
+  },
+  {
+    "id": "mark",
+    "speech": "सुबह की बात है। मिट्टी पर एक छोटा सा निशान था।",
+    "roman": "Subah ki baat hai. Mitti par ek chhota sa nishaan tha.",
+    "cue_word": "निशान",
+    "action": "Morning flashback. A peeled twig forms a cross in the soil.",
+    "pause": 0.13,
+    "phrases": [
+      {
+        "hi": "सुबह की बात है। मिट्टी पर एक छोटा सा निशान था।",
+        "roman": "Subah ki baat hai. Mitti par ek chhota sa nishaan tha.",
+        "hold": 0
+      }
+    ],
+    "start": 7.957833333333333,
+    "speech_end": 11.173916666666667,
+    "end": 11.303916666666666,
+    "cue": 10.54288,
+    "words": [
+      {
+        "hi": "सुबह",
+        "text": "Subah",
+        "start": 8.04288,
+        "end": 8.29288
+      },
+      {
+        "hi": "की",
+        "text": "ki",
+        "start": 8.34287,
+        "end": 8.44288
+      },
+      {
+        "hi": "बात",
+        "text": "baat",
+        "start": 8.49287,
+        "end": 8.74287
+      },
+      {
+        "hi": "है।",
+        "text": "hai.",
+        "start": 8.79288,
+        "end": 9.09287
+      },
+      {
+        "hi": "मिट्टी",
+        "text": "Mitti",
+        "start": 9.16788,
+        "end": 9.44288
+      },
+      {
+        "hi": "पर",
+        "text": "par",
+        "start": 9.49287,
+        "end": 9.66788
+      },
+      {
+        "hi": "एक",
+        "text": "ek",
+        "start": 9.71787,
+        "end": 9.89288
+      },
+      {
+        "hi": "छोटा",
+        "text": "chhota",
+        "start": 9.94288,
+        "end": 10.29288
+      },
+      {
+        "hi": "सा",
+        "text": "sa",
+        "start": 10.34287,
+        "end": 10.49287
+      },
+      {
+        "hi": "निशान",
+        "text": "nishaan",
+        "start": 10.54288,
+        "end": 10.91788
+      },
+      {
+        "hi": "था।",
+        "text": "tha.",
+        "start": 10.96787,
+        "end": 11.17392
+      }
+    ]
+  },
+  {
+    "id": "wind",
+    "speech": "हवा चली तो निशान की एक टहनी सरक गई।",
+    "roman": "Hawa chali toh nishaan ki ek tahni sarak gayi.",
+    "cue_word": "टहनी",
+    "action": "A breeze moves one of the crossed twigs. She misses the clue.",
+    "pause": 0.19,
+    "phrases": [
+      {
+        "hi": "हवा चली तो निशान की एक टहनी सरक गई।",
+        "roman": "Hawa chali toh nishaan ki ek tahni sarak gayi.",
+        "hold": 0
+      }
+    ],
+    "start": 11.303916666666666,
+    "speech_end": 13.991375,
+    "end": 14.181375,
+    "cue": 13.04346,
+    "words": [
+      {
+        "hi": "हवा",
+        "text": "Hawa",
+        "start": 11.36846,
+        "end": 11.61846
+      },
+      {
+        "hi": "चली",
+        "text": "chali",
+        "start": 11.69346,
+        "end": 11.94346
+      },
+      {
+        "hi": "तो",
+        "text": "toh",
+        "start": 11.99346,
+        "end": 12.09346
+      },
+      {
+        "hi": "निशान",
+        "text": "nishaan",
+        "start": 12.14346,
+        "end": 12.56846
+      },
+      {
+        "hi": "की",
+        "text": "ki",
+        "start": 12.61846,
+        "end": 12.74346
+      },
+      {
+        "hi": "एक",
+        "text": "ek",
+        "start": 12.81846,
+        "end": 12.99346
+      },
+      {
+        "hi": "टहनी",
+        "text": "tahni",
+        "start": 13.04346,
+        "end": 13.39346
+      },
+      {
+        "hi": "सरक",
+        "text": "sarak",
+        "start": 13.44346,
+        "end": 13.71846
+      },
+      {
+        "hi": "गई।",
+        "text": "gayi.",
+        "start": 13.76846,
+        "end": 13.99137
+      }
+    ]
+  },
+  {
+    "id": "guess",
+    "speech": "पर इसे लगा, अरे, अपने मेवे तो मैंने यहीं दबाए थे!",
+    "roman": "Par ise laga, Arey, apne meve toh maine yahin dabaaye the!",
+    "cue_word": "मेवे",
+    "action": "A thought bubble shows three acorns underneath the mark.",
+    "pause": 0.22,
+    "phrases": [
+      {
+        "hi": "पर इसे लगा,",
+        "roman": "Par ise laga,",
+        "hold": 0.06
+      },
+      {
+        "hi": "अरे, अपने मेवे तो मैंने यहीं दबाए थे!",
+        "roman": "Arey, apne meve toh maine yahin dabaaye the!",
+        "hold": 0
+      }
+    ],
+    "start": 14.181375,
+    "speech_end": 17.66875,
+    "end": 17.88875,
+    "cue": 15.99171,
+    "words": [
+      {
+        "hi": "पर",
+        "text": "Par",
+        "start": 14.26371,
+        "end": 14.46371
+      },
+      {
+        "hi": "इसे",
+        "text": "ise",
+        "start": 14.51371,
+        "end": 14.76371
+      },
+      {
+        "hi": "लगा,",
+        "text": "laga,",
+        "start": 14.78871,
+        "end": 15.18671
+      },
+      {
+        "hi": "अरे,",
+        "text": "Arey,",
+        "start": 15.31671,
+        "end": 15.61671
+      },
+      {
+        "hi": "अपने",
+        "text": "apne",
+        "start": 15.66671,
+        "end": 15.94171
+      },
+      {
+        "hi": "मेवे",
+        "text": "meve",
+        "start": 15.99171,
+        "end": 16.26671
+      },
+      {
+        "hi": "तो",
+        "text": "toh",
+        "start": 16.31671,
+        "end": 16.41671
+      },
+      {
+        "hi": "मैंने",
+        "text": "maine",
+        "start": 16.46671,
+        "end": 16.79171
+      },
+      {
+        "hi": "यहीं",
+        "text": "yahin",
+        "start": 16.86671,
+        "end": 17.09171
+      },
+      {
+        "hi": "दबाए",
+        "text": "dabaaye",
+        "start": 17.11671,
+        "end": 17.44171
+      },
+      {
+        "hi": "थे!",
+        "text": "the!",
+        "start": 17.49171,
+        "end": 17.66875
+      }
+    ]
+  },
+  {
+    "id": "dig",
+    "speech": "पंजा मारा। निकला क्या? एक कीड़ा।",
+    "roman": "Panja maara. Nikla kya? Ek keeda.",
+    "cue_word": "कीड़ा",
+    "action": "Dirt flies and one worm pokes out, holds, then ducks.",
+    "pause": 0.25,
+    "phrases": [
+      {
+        "hi": "पंजा मारा। निकला क्या?",
+        "roman": "Panja maara. Nikla kya?",
+        "hold": 0.26
+      },
+      {
+        "hi": "एक कीड़ा।",
+        "roman": "Ek keeda.",
+        "hold": 0
+      }
+    ],
+    "start": 17.88875,
+    "speech_end": 20.525875,
+    "end": 20.775875,
+    "cue": 20.01462,
+    "words": [
+      {
+        "hi": "पंजा",
+        "text": "Panja",
+        "start": 17.91779,
+        "end": 18.31779
+      },
+      {
+        "hi": "मारा।",
+        "text": "maara.",
+        "start": 18.36779,
+        "end": 18.74279
+      },
+      {
+        "hi": "निकला",
+        "text": "Nikla",
+        "start": 18.79279,
+        "end": 19.11779
+      },
+      {
+        "hi": "क्या?",
+        "text": "kya?",
+        "start": 19.16779,
+        "end": 19.42429
+      },
+      {
+        "hi": "एक",
+        "text": "Ek",
+        "start": 19.76462,
+        "end": 19.96463
+      },
+      {
+        "hi": "कीड़ा।",
+        "text": "keeda.",
+        "start": 20.01462,
+        "end": 20.52587
+      }
+    ]
+  },
+  {
+    "id": "rain",
+    "speech": "इतने में, पीछे की डाल से एक और मेवा टपका।",
+    "roman": "Itne mein, peechhe ki daal se ek aur meva tapka.",
+    "cue_word": "टपका",
+    "action": "Follow a single falling acorn to the patch of grass.",
+    "pause": 0.14,
+    "phrases": [
+      {
+        "hi": "इतने में, पीछे की डाल से एक और मेवा टपका।",
+        "roman": "Itne mein, peechhe ki daal se ek aur meva tapka.",
+        "hold": 0
+      }
+    ],
+    "start": 20.775875,
+    "speech_end": 23.685125,
+    "end": 23.825125,
+    "cue": 23.28742,
+    "words": [
+      {
+        "hi": "इतने",
+        "text": "Itne",
+        "start": 20.83742,
+        "end": 21.13742
+      },
+      {
+        "hi": "में,",
+        "text": "mein,",
+        "start": 21.18742,
+        "end": 21.36242
+      },
+      {
+        "hi": "पीछे",
+        "text": "peechhe",
+        "start": 21.41242,
+        "end": 21.71242
+      },
+      {
+        "hi": "की",
+        "text": "ki",
+        "start": 21.76242,
+        "end": 21.86242
+      },
+      {
+        "hi": "डाल",
+        "text": "daal",
+        "start": 21.91242,
+        "end": 22.16242
+      },
+      {
+        "hi": "से",
+        "text": "se",
+        "start": 22.21242,
+        "end": 22.43742
+      },
+      {
+        "hi": "एक",
+        "text": "ek",
+        "start": 22.51242,
+        "end": 22.76242
+      },
+      {
+        "hi": "और",
+        "text": "aur",
+        "start": 22.83742,
+        "end": 22.93742
+      },
+      {
+        "hi": "मेवा",
+        "text": "meva",
+        "start": 22.98742,
+        "end": 23.23742
+      },
+      {
+        "hi": "टपका।",
+        "text": "tapka.",
+        "start": 23.28742,
+        "end": 23.68512
+      }
+    ]
+  },
+  {
+    "id": "look",
+    "speech": "इस बार आवाज़ सुनकर मुड़ी। बस दो छलाँग लगानी थीं।",
+    "roman": "Is baar aawaaz sunkar mudi. Bas do chhalaang lagaani thin.",
+    "cue_word": "दो",
+    "action": "She pivots toward the acorn. Hold the clear path between them.",
+    "pause": 0.28,
+    "phrases": [
+      {
+        "hi": "इस बार आवाज़ सुनकर मुड़ी।",
+        "roman": "Is baar aawaaz sunkar mudi.",
+        "hold": 0.12
+      },
+      {
+        "hi": "बस दो छलाँग लगानी थीं।",
+        "roman": "Bas do chhalaang lagaani thin.",
+        "hold": 0
+      }
+    ],
+    "start": 23.825125,
+    "speech_end": 27.587083333333332,
+    "end": 27.867083333333333,
+    "cue": 26.194,
+    "words": [
+      {
+        "hi": "इस",
+        "text": "Is",
+        "start": 23.87821,
+        "end": 24.05321
+      },
+      {
+        "hi": "बार",
+        "text": "baar",
+        "start": 24.10321,
+        "end": 24.37821
+      },
+      {
+        "hi": "आवाज़",
+        "text": "aawaaz",
+        "start": 24.47821,
+        "end": 24.82821
+      },
+      {
+        "hi": "सुनकर",
+        "text": "sunkar",
+        "start": 24.90321,
+        "end": 25.30321
+      },
+      {
+        "hi": "मुड़ी।",
+        "text": "mudi.",
+        "start": 25.35321,
+        "end": 25.693
+      },
+      {
+        "hi": "बस",
+        "text": "Bas",
+        "start": 25.919,
+        "end": 26.144
+      },
+      {
+        "hi": "दो",
+        "text": "do",
+        "start": 26.194,
+        "end": 26.344
+      },
+      {
+        "hi": "छलाँग",
+        "text": "chhalaang",
+        "start": 26.419,
+        "end": 26.844
+      },
+      {
+        "hi": "लगानी",
+        "text": "lagaani",
+        "start": 26.894,
+        "end": 27.294
+      },
+      {
+        "hi": "थीं।",
+        "text": "thin.",
+        "start": 27.344,
+        "end": 27.58708
+      }
+    ]
+  },
+  {
+    "id": "return",
+    "speech": "फिर अपने पंजे देखे। इतना खोद लिया, अब चली जाऊँ?",
+    "roman": "Phir apne panje dekhe. Itna khod liya, ab chali jaaun?",
+    "cue_word": "पंजे",
+    "action": "Close on dirty paws. Her gaze darts back to the hole.",
+    "pause": 0.15,
+    "phrases": [
+      {
+        "hi": "फिर अपने पंजे देखे।",
+        "roman": "Phir apne panje dekhe.",
+        "hold": 0.16
+      },
+      {
+        "hi": "इतना खोद लिया, अब चली जाऊँ?",
+        "roman": "Itna khod liya, ab chali jaaun?",
+        "hold": 0
+      }
+    ],
+    "start": 27.867083333333333,
+    "speech_end": 31.497291666666666,
+    "end": 31.647291666666668,
+    "cue": 28.59408,
+    "words": [
+      {
+        "hi": "फिर",
+        "text": "Phir",
+        "start": 27.91908,
+        "end": 28.14408
+      },
+      {
+        "hi": "अपने",
+        "text": "apne",
+        "start": 28.19408,
+        "end": 28.51908
+      },
+      {
+        "hi": "पंजे",
+        "text": "panje",
+        "start": 28.59408,
+        "end": 28.91908
+      },
+      {
+        "hi": "देखे।",
+        "text": "dekhe.",
+        "start": 28.96908,
+        "end": 29.40079
+      },
+      {
+        "hi": "इतना",
+        "text": "Itna",
+        "start": 29.62921,
+        "end": 29.97921
+      },
+      {
+        "hi": "खोद",
+        "text": "khod",
+        "start": 30.02921,
+        "end": 30.27921
+      },
+      {
+        "hi": "लिया,",
+        "text": "liya,",
+        "start": 30.32921,
+        "end": 30.67921
+      },
+      {
+        "hi": "अब",
+        "text": "ab",
+        "start": 30.72921,
+        "end": 30.87921
+      },
+      {
+        "hi": "चली",
+        "text": "chali",
+        "start": 30.92921,
+        "end": 31.15421
+      },
+      {
+        "hi": "जाऊँ?",
+        "text": "jaaun?",
+        "start": 31.20421,
+        "end": 31.49729
+      }
+    ]
+  },
+  {
+    "id": "bargain",
+    "speech": "पंजों से मिट्टी झड़ रही थी। सोचा, बस थोड़ा सा और।",
+    "roman": "Panjon se mitti jhad rahi thi. Socha, bas thoda sa aur.",
+    "cue_word": "मिट्टी",
+    "action": "She compares her paws with the easy meal. Mud falls from her claws.",
+    "pause": 0.15,
+    "phrases": [
+      {
+        "hi": "पंजों से मिट्टी झड़ रही थी।",
+        "roman": "Panjon se mitti jhad rahi thi.",
+        "hold": 0.1
+      },
+      {
+        "hi": "सोचा, बस थोड़ा सा और।",
+        "roman": "Socha, bas thoda sa aur.",
+        "hold": 0
+      }
+    ],
+    "start": 31.647291666666668,
+    "speech_end": 35.15266666666667,
+    "end": 35.30266666666667,
+    "cue": 32.30425,
+    "words": [
+      {
+        "hi": "पंजों",
+        "text": "Panjon",
+        "start": 31.67925,
+        "end": 32.00425
+      },
+      {
+        "hi": "से",
+        "text": "se",
+        "start": 32.05425,
+        "end": 32.22925
+      },
+      {
+        "hi": "मिट्टी",
+        "text": "mitti",
+        "start": 32.30425,
+        "end": 32.67925
+      },
+      {
+        "hi": "झड़",
+        "text": "jhad",
+        "start": 32.75425,
+        "end": 32.95425
+      },
+      {
+        "hi": "रही",
+        "text": "rahi",
+        "start": 32.97925,
+        "end": 33.17925
+      },
+      {
+        "hi": "थी।",
+        "text": "thi.",
+        "start": 33.22925,
+        "end": 33.47254
+      },
+      {
+        "hi": "सोचा,",
+        "text": "Socha,",
+        "start": 33.67042,
+        "end": 34.04542
+      },
+      {
+        "hi": "बस",
+        "text": "bas",
+        "start": 34.09542,
+        "end": 34.29542
+      },
+      {
+        "hi": "थोड़ा",
+        "text": "thoda",
+        "start": 34.34542,
+        "end": 34.59542
+      },
+      {
+        "hi": "सा",
+        "text": "sa",
+        "start": 34.64542,
+        "end": 34.84542
+      },
+      {
+        "hi": "और।",
+        "text": "aur.",
+        "start": 34.92042,
+        "end": 35.15267
+      }
+    ]
+  },
+  {
+    "id": "deeper",
+    "speech": "एक परत और हटी। और नीचे? पत्थर।",
+    "roman": "Ek parat aur hati. Aur neeche? Patthar.",
+    "cue_word": "पत्थर",
+    "action": "The near paw hits a slate stone. A tiny impact line punctuates the beat.",
+    "pause": 0.24,
+    "phrases": [
+      {
+        "hi": "एक परत और हटी। और नीचे?",
+        "roman": "Ek parat aur hati. Aur neeche?",
+        "hold": 0.24
+      },
+      {
+        "hi": "पत्थर।",
+        "roman": "Patthar.",
+        "hold": 0
+      }
+    ],
+    "start": 35.30266666666667,
+    "speech_end": 38.01408333333333,
+    "end": 38.254083333333334,
+    "cue": 37.45229,
+    "words": [
+      {
+        "hi": "एक",
+        "text": "Ek",
+        "start": 35.37621,
+        "end": 35.55121
+      },
+      {
+        "hi": "परत",
+        "text": "parat",
+        "start": 35.60121,
+        "end": 35.87621
+      },
+      {
+        "hi": "और",
+        "text": "aur",
+        "start": 35.95121,
+        "end": 36.05121
+      },
+      {
+        "hi": "हटी।",
+        "text": "hati.",
+        "start": 36.10121,
+        "end": 36.42621
+      },
+      {
+        "hi": "और",
+        "text": "Aur",
+        "start": 36.50121,
+        "end": 36.60121
+      },
+      {
+        "hi": "नीचे?",
+        "text": "neeche?",
+        "start": 36.65121,
+        "end": 37.09454
+      },
+      {
+        "hi": "पत्थर।",
+        "text": "Patthar.",
+        "start": 37.45229,
+        "end": 38.01408
+      }
+    ]
+  },
+  {
+    "id": "push",
+    "speech": "पत्थर भी हटाया। अब छोड़ना और मुश्किल लग रहा था।",
+    "roman": "Patthar bhi hataaya. Ab chhodna aur mushkil lag raha tha.",
+    "cue_word": "हटाया",
+    "action": "The rock rolls onto the mound. The pile gets taller.",
+    "pause": 0.2,
+    "phrases": [
+      {
+        "hi": "पत्थर भी हटाया। अब छोड़ना और मुश्किल लग रहा था।",
+        "roman": "Patthar bhi hataaya. Ab chhodna aur mushkil lag raha tha.",
+        "hold": 0
+      }
+    ],
+    "start": 38.254083333333334,
+    "speech_end": 41.597625,
+    "end": 41.797625,
+    "cue": 38.96713,
+    "words": [
+      {
+        "hi": "पत्थर",
+        "text": "Patthar",
+        "start": 38.29212,
+        "end": 38.69212
+      },
+      {
+        "hi": "भी",
+        "text": "bhi",
+        "start": 38.74213,
+        "end": 38.91712
+      },
+      {
+        "hi": "हटाया।",
+        "text": "hataaya.",
+        "start": 38.96713,
+        "end": 39.64213
+      },
+      {
+        "hi": "अब",
+        "text": "Ab",
+        "start": 39.69212,
+        "end": 39.84213
+      },
+      {
+        "hi": "छोड़ना",
+        "text": "chhodna",
+        "start": 39.91712,
+        "end": 40.39213
+      },
+      {
+        "hi": "और",
+        "text": "aur",
+        "start": 40.44213,
+        "end": 40.54212
+      },
+      {
+        "hi": "मुश्किल",
+        "text": "mushkil",
+        "start": 40.59213,
+        "end": 40.94213
+      },
+      {
+        "hi": "लग",
+        "text": "lag",
+        "start": 40.99213,
+        "end": 41.16712
+      },
+      {
+        "hi": "रहा",
+        "text": "raha",
+        "start": 41.19213,
+        "end": 41.39213
+      },
+      {
+        "hi": "था।",
+        "text": "tha.",
+        "start": 41.41712,
+        "end": 41.59763
+      }
+    ]
+  },
+  {
+    "id": "dusk",
+    "speech": "शाम हो गई। उधर एक मेवे के बगल में तीन और गिर चुके थे।",
+    "roman": "Shaam ho gayi. Udhar ek meve ke bagal mein teen aur gir chuke the.",
+    "cue_word": "तीन",
+    "action": "Lower the sun. Three new acorns land beside the first.",
+    "pause": 0.2,
+    "phrases": [
+      {
+        "hi": "शाम हो गई। उधर एक मेवे के बगल में तीन और गिर चुके थे।",
+        "roman": "Shaam ho gayi. Udhar ek meve ke bagal mein teen aur gir chuke the.",
+        "hold": 0
+      }
+    ],
+    "start": 41.797625,
+    "speech_end": 45.56129166666667,
+    "end": 45.761291666666665,
+    "cue": 44.36337,
+    "words": [
+      {
+        "hi": "शाम",
+        "text": "Shaam",
+        "start": 41.91337,
+        "end": 42.16337
+      },
+      {
+        "hi": "हो",
+        "text": "ho",
+        "start": 42.21337,
+        "end": 42.31337
+      },
+      {
+        "hi": "गई।",
+        "text": "gayi.",
+        "start": 42.36337,
+        "end": 42.71337
+      },
+      {
+        "hi": "उधर",
+        "text": "Udhar",
+        "start": 42.76337,
+        "end": 43.06337
+      },
+      {
+        "hi": "एक",
+        "text": "ek",
+        "start": 43.11337,
+        "end": 43.28837
+      },
+      {
+        "hi": "मेवे",
+        "text": "meve",
+        "start": 43.33837,
+        "end": 43.58837
+      },
+      {
+        "hi": "के",
+        "text": "ke",
+        "start": 43.63837,
+        "end": 43.71337
+      },
+      {
+        "hi": "बगल",
+        "text": "bagal",
+        "start": 43.76337,
+        "end": 44.03837
+      },
+      {
+        "hi": "में",
+        "text": "mein",
+        "start": 44.08837,
+        "end": 44.28837
+      },
+      {
+        "hi": "तीन",
+        "text": "teen",
+        "start": 44.36337,
+        "end": 44.63837
+      },
+      {
+        "hi": "और",
+        "text": "aur",
+        "start": 44.71337,
+        "end": 44.83837
+      },
+      {
+        "hi": "गिर",
+        "text": "gir",
+        "start": 44.88837,
+        "end": 45.06337
+      },
+      {
+        "hi": "चुके",
+        "text": "chuke",
+        "start": 45.11337,
+        "end": 45.33837
+      },
+      {
+        "hi": "थे।",
+        "text": "the.",
+        "start": 45.38837,
+        "end": 45.56129
+      }
+    ]
+  },
+  {
+    "id": "visitor",
+    "speech": "एक चिड़िया आई, मेवा उठाया और फुर्र से उड़ गई।",
+    "roman": "Ek chidiya aayi, meva uthaaya aur furr se ud gayi.",
+    "cue_word": "चिड़िया",
+    "action": "A teal bird swoops to the visible pile, takes one and exits.",
+    "pause": 0.15,
+    "phrases": [
+      {
+        "hi": "एक चिड़िया आई, मेवा उठाया और फुर्र से उड़ गई।",
+        "roman": "Ek chidiya aayi, meva uthaaya aur furr se ud gayi.",
+        "hold": 0
+      }
+    ],
+    "start": 45.761291666666665,
+    "speech_end": 48.80408333333333,
+    "end": 48.95408333333334,
+    "cue": 46.08263,
+    "words": [
+      {
+        "hi": "एक",
+        "text": "Ek",
+        "start": 45.83263,
+        "end": 46.00762
+      },
+      {
+        "hi": "चिड़िया",
+        "text": "chidiya",
+        "start": 46.08263,
+        "end": 46.38262
+      },
+      {
+        "hi": "आई,",
+        "text": "aayi,",
+        "start": 46.43263,
+        "end": 46.83263
+      },
+      {
+        "hi": "मेवा",
+        "text": "meva",
+        "start": 46.90762,
+        "end": 47.18263
+      },
+      {
+        "hi": "उठाया",
+        "text": "uthaaya",
+        "start": 47.23262,
+        "end": 47.68263
+      },
+      {
+        "hi": "और",
+        "text": "aur",
+        "start": 47.75762,
+        "end": 47.88262
+      },
+      {
+        "hi": "फुर्र",
+        "text": "furr",
+        "start": 47.93263,
+        "end": 48.18263
+      },
+      {
+        "hi": "से",
+        "text": "se",
+        "start": 48.23262,
+        "end": 48.35762
+      },
+      {
+        "hi": "उड़",
+        "text": "ud",
+        "start": 48.40762,
+        "end": 48.55763
+      },
+      {
+        "hi": "गई।",
+        "text": "gayi.",
+        "start": 48.60762,
+        "end": 48.80408
+      }
+    ]
+  },
+  {
+    "id": "shadow",
+    "speech": "उसकी परछाईं गड्ढे पर पड़ी तो गिलहरी ने सिर उठाया।",
+    "roman": "Uski parchhaai gaddhe par padi toh gilhari ne sir uthaaya.",
+    "cue_word": "परछाईं",
+    "action": "Cast a fleeting bird shadow across the hole.",
+    "pause": 0.22,
+    "phrases": [
+      {
+        "hi": "उसकी परछाईं गड्ढे पर पड़ी तो गिलहरी ने सिर उठाया।",
+        "roman": "Uski parchhaai gaddhe par padi toh gilhari ne sir uthaaya.",
+        "hold": 0
+      }
+    ],
+    "start": 48.95408333333334,
+    "speech_end": 52.58020833333333,
+    "end": 52.80020833333333,
+    "cue": 49.34758,
+    "words": [
+      {
+        "hi": "उसकी",
+        "text": "Uski",
+        "start": 48.99758,
+        "end": 49.29758
+      },
+      {
+        "hi": "परछाईं",
+        "text": "parchhaai",
+        "start": 49.34758,
+        "end": 49.89758
+      },
+      {
+        "hi": "गड्ढे",
+        "text": "gaddhe",
+        "start": 49.97258,
+        "end": 50.34758
+      },
+      {
+        "hi": "पर",
+        "text": "par",
+        "start": 50.39758,
+        "end": 50.57258
+      },
+      {
+        "hi": "पड़ी",
+        "text": "padi",
+        "start": 50.62258,
+        "end": 50.89758
+      },
+      {
+        "hi": "तो",
+        "text": "toh",
+        "start": 50.97258,
+        "end": 51.14758
+      },
+      {
+        "hi": "गिलहरी",
+        "text": "gilhari",
+        "start": 51.24758,
+        "end": 51.64758
+      },
+      {
+        "hi": "ने",
+        "text": "ne",
+        "start": 51.69758,
+        "end": 51.84758
+      },
+      {
+        "hi": "सिर",
+        "text": "sir",
+        "start": 51.92258,
+        "end": 52.12258
+      },
+      {
+        "hi": "उठाया।",
+        "text": "uthaaya.",
+        "start": 52.17258,
+        "end": 52.58021
+      }
+    ]
+  },
+  {
+    "id": "stay",
+    "speech": "मेवे उसे भी दिखे। फिर भी बैठी रही, वहीं।",
+    "roman": "Meve use bhi dikhe. Phir bhi baithi rahi, wahin.",
+    "cue_word": "वहीं",
+    "action": "Hold on the animal watching the bird go. She sinks back into the hole.",
+    "pause": 0.27,
+    "phrases": [
+      {
+        "hi": "मेवे उसे भी दिखे। फिर भी बैठी रही, वहीं।",
+        "roman": "Meve use bhi dikhe. Phir bhi baithi rahi, wahin.",
+        "hold": 0
+      }
+    ],
+    "start": 52.80020833333333,
+    "speech_end": 55.602291666666666,
+    "end": 55.87229166666667,
+    "cue": 55.30333,
+    "words": [
+      {
+        "hi": "मेवे",
+        "text": "Meve",
+        "start": 52.90333,
+        "end": 53.20333
+      },
+      {
+        "hi": "उसे",
+        "text": "use",
+        "start": 53.25333,
+        "end": 53.45333
+      },
+      {
+        "hi": "भी",
+        "text": "bhi",
+        "start": 53.50333,
+        "end": 53.65333
+      },
+      {
+        "hi": "दिखे।",
+        "text": "dikhe.",
+        "start": 53.70333,
+        "end": 54.12833
+      },
+      {
+        "hi": "फिर",
+        "text": "Phir",
+        "start": 54.17833,
+        "end": 54.37833
+      },
+      {
+        "hi": "भी",
+        "text": "bhi",
+        "start": 54.42833,
+        "end": 54.57833
+      },
+      {
+        "hi": "बैठी",
+        "text": "baithi",
+        "start": 54.62833,
+        "end": 55.00333
+      },
+      {
+        "hi": "रही,",
+        "text": "rahi,",
+        "start": 55.02833,
+        "end": 55.25333
+      },
+      {
+        "hi": "वहीं।",
+        "text": "wahin.",
+        "start": 55.30333,
+        "end": 55.60229
+      }
+    ]
+  },
+  {
+    "id": "why",
+    "speech": "पता है क्यों?",
+    "roman": "Pata hai kyon?",
+    "cue_word": "क्यों",
+    "action": "Pull in on her face and leave space for the question.",
+    "pause": 0.46,
+    "phrases": [
+      {
+        "hi": "पता है क्यों?",
+        "roman": "Pata hai kyon?",
+        "hold": 0
+      }
+    ],
+    "start": 55.87229166666667,
+    "speech_end": 56.857125,
+    "end": 57.317125,
+    "cue": 56.51679,
+    "words": [
+      {
+        "hi": "पता",
+        "text": "Pata",
+        "start": 55.96679,
+        "end": 56.29179
+      },
+      {
+        "hi": "है",
+        "text": "hai",
+        "start": 56.34179,
+        "end": 56.46679
+      },
+      {
+        "hi": "क्यों?",
+        "text": "kyon?",
+        "start": 56.51679,
+        "end": 56.85713
+      }
+    ]
+  },
+  {
+    "id": "proof",
+    "speech": "अब उसे भूख से ज़्यादा इस बात की चुभन थी। कहीं सुबह से गलत जगह तो नहीं खोद रही थी?",
+    "roman": "Ab use bhookh se zyaada is baat ki chubhan thi. Kahin subah se galat jagah toh nahin khod rahi thi?",
+    "cue_word": "गलत",
+    "action": "Tilt down to the empty pit. Show the clean slice of earth.",
+    "pause": 0.39,
+    "phrases": [
+      {
+        "hi": "अब उसे भूख से ज़्यादा इस बात की चुभन थी।",
+        "roman": "Ab use bhookh se zyaada is baat ki chubhan thi.",
+        "hold": 0.19
+      },
+      {
+        "hi": "कहीं सुबह से गलत जगह तो नहीं खोद रही थी?",
+        "roman": "Kahin subah se galat jagah toh nahin khod rahi thi?",
+        "hold": 0
+      }
+    ],
+    "start": 57.317125,
+    "speech_end": 63.201166666666666,
+    "end": 63.591166666666666,
+    "cue": 61.42504,
+    "words": [
+      {
+        "hi": "अब",
+        "text": "Ab",
+        "start": 57.38237,
+        "end": 57.53237
+      },
+      {
+        "hi": "उसे",
+        "text": "use",
+        "start": 57.55738,
+        "end": 57.80738
+      },
+      {
+        "hi": "भूख",
+        "text": "bhookh",
+        "start": 57.88237,
+        "end": 58.15737
+      },
+      {
+        "hi": "से",
+        "text": "se",
+        "start": 58.20737,
+        "end": 58.30738
+      },
+      {
+        "hi": "ज़्यादा",
+        "text": "zyaada",
+        "start": 58.35737,
+        "end": 58.80738
+      },
+      {
+        "hi": "इस",
+        "text": "is",
+        "start": 58.88237,
+        "end": 59.05738
+      },
+      {
+        "hi": "बात",
+        "text": "baat",
+        "start": 59.10737,
+        "end": 59.35737
+      },
+      {
+        "hi": "की",
+        "text": "ki",
+        "start": 59.40737,
+        "end": 59.50737
+      },
+      {
+        "hi": "चुभन",
+        "text": "chubhan",
+        "start": 59.58237,
+        "end": 59.93238
+      },
+      {
+        "hi": "थी।",
+        "text": "thi.",
+        "start": 59.98237,
+        "end": 60.18804
+      },
+      {
+        "hi": "कहीं",
+        "text": "Kahin",
+        "start": 60.42504,
+        "end": 60.67504
+      },
+      {
+        "hi": "सुबह",
+        "text": "subah",
+        "start": 60.72504,
+        "end": 61.00004
+      },
+      {
+        "hi": "से",
+        "text": "se",
+        "start": 61.07504,
+        "end": 61.32504
+      },
+      {
+        "hi": "गलत",
+        "text": "galat",
+        "start": 61.42504,
+        "end": 61.72504
+      },
+      {
+        "hi": "जगह",
+        "text": "jagah",
+        "start": 61.77504,
+        "end": 62.00004
+      },
+      {
+        "hi": "तो",
+        "text": "toh",
+        "start": 62.07504,
+        "end": 62.17504
+      },
+      {
+        "hi": "नहीं",
+        "text": "nahin",
+        "start": 62.22504,
+        "end": 62.45004
+      },
+      {
+        "hi": "खोद",
+        "text": "khod",
+        "start": 62.50004,
+        "end": 62.72504
+      },
+      {
+        "hi": "रही",
+        "text": "rahi",
+        "start": 62.75004,
+        "end": 62.95004
+      },
+      {
+        "hi": "थी?",
+        "text": "thi?",
+        "start": 63.00004,
+        "end": 63.20117
+      }
+    ]
+  },
+  {
+    "id": "human",
+    "speech": "अच्छा, तुम्हारे साथ कभी सिनेमा में ऐसा हुआ है? फ़िल्म शुरू हुई।",
+    "roman": "Achha, tumhaare saath kabhi cinema mein aisa hua hai? Film shuru hui.",
+    "cue_word": "फ़िल्म",
+    "action": "Match the round hole to a reel. Reveal a bored viewer and ticket.",
+    "pause": 0.2,
+    "phrases": [
+      {
+        "hi": "अच्छा, तुम्हारे साथ कभी सिनेमा में ऐसा हुआ है?",
+        "roman": "Achha, tumhaare saath kabhi cinema mein aisa hua hai?",
+        "hold": 0.18
+      },
+      {
+        "hi": "फ़िल्म शुरू हुई।",
+        "roman": "Film shuru hui.",
+        "hold": 0
+      }
+    ],
+    "start": 63.591166666666666,
+    "speech_end": 67.98033333333333,
+    "end": 68.18033333333334,
+    "cue": 66.99846,
+    "words": [
+      {
+        "hi": "अच्छा,",
+        "text": "Achha,",
+        "start": 63.65787,
+        "end": 64.10787
+      },
+      {
+        "hi": "तुम्हारे",
+        "text": "tumhaare",
+        "start": 64.15788,
+        "end": 64.53288
+      },
+      {
+        "hi": "साथ",
+        "text": "saath",
+        "start": 64.58288,
+        "end": 64.88287
+      },
+      {
+        "hi": "कभी",
+        "text": "kabhi",
+        "start": 64.93287,
+        "end": 65.20788
+      },
+      {
+        "hi": "सिनेमा",
+        "text": "cinema",
+        "start": 65.28288,
+        "end": 65.63287
+      },
+      {
+        "hi": "में",
+        "text": "mein",
+        "start": 65.65788,
+        "end": 65.88287
+      },
+      {
+        "hi": "ऐसा",
+        "text": "aisa",
+        "start": 65.98287,
+        "end": 66.28288
+      },
+      {
+        "hi": "हुआ",
+        "text": "hua",
+        "start": 66.33288,
+        "end": 66.55787
+      },
+      {
+        "hi": "है?",
+        "text": "hai?",
+        "start": 66.60787,
+        "end": 66.72213
+      },
+      {
+        "hi": "फ़िल्म",
+        "text": "Film",
+        "start": 66.99846,
+        "end": 67.29846
+      },
+      {
+        "hi": "शुरू",
+        "text": "shuru",
+        "start": 67.39846,
+        "end": 67.64846
+      },
+      {
+        "hi": "हुई।",
+        "text": "hui.",
+        "start": 67.69846,
+        "end": 67.98033
+      }
+    ]
+  },
+  {
+    "id": "ticket",
+    "speech": "बीस मिनट बीते, और मन किया कि यार, घर चलें।",
+    "roman": "Bees minute beete, aur man kiya ki yaar, ghar chalen.",
+    "cue_word": "बीस",
+    "action": "The clock advances to twenty minutes. The viewer slumps.",
+    "pause": 0.2,
+    "phrases": [
+      {
+        "hi": "बीस मिनट बीते, और मन किया कि यार, घर चलें।",
+        "roman": "Bees minute beete, aur man kiya ki yaar, ghar chalen.",
+        "hold": 0
+      }
+    ],
+    "start": 68.18033333333334,
+    "speech_end": 71.12404166666667,
+    "end": 71.32404166666667,
+    "cue": 68.30217,
+    "words": [
+      {
+        "hi": "बीस",
+        "text": "Bees",
+        "start": 68.30217,
+        "end": 68.55217
+      },
+      {
+        "hi": "मिनट",
+        "text": "minute",
+        "start": 68.60217,
+        "end": 68.87717
+      },
+      {
+        "hi": "बीते,",
+        "text": "beete,",
+        "start": 68.92717,
+        "end": 69.42717
+      },
+      {
+        "hi": "और",
+        "text": "aur",
+        "start": 69.47717,
+        "end": 69.60217
+      },
+      {
+        "hi": "मन",
+        "text": "man",
+        "start": 69.65217,
+        "end": 69.80217
+      },
+      {
+        "hi": "किया",
+        "text": "kiya",
+        "start": 69.85217,
+        "end": 70.02717
+      },
+      {
+        "hi": "कि",
+        "text": "ki",
+        "start": 70.07717,
+        "end": 70.15217
+      },
+      {
+        "hi": "यार,",
+        "text": "yaar,",
+        "start": 70.20217,
+        "end": 70.50217
+      },
+      {
+        "hi": "घर",
+        "text": "ghar",
+        "start": 70.55217,
+        "end": 70.77717
+      },
+      {
+        "hi": "चलें।",
+        "text": "chalen.",
+        "start": 70.82717,
+        "end": 71.12404
+      }
+    ]
+  },
+  {
+    "id": "paid",
+    "speech": "दरवाज़ा खुला है। तभी टिकट पर नज़र गई। तीन सौ रुपये दिए हैं!",
+    "roman": "Darwaaza khula hai. Tabhi ticket par nazar gayi. Teen sau rupaye diye hain!",
+    "cue_word": "तीन",
+    "action": "The exit glows. Push in on the three-hundred-rupee ticket.",
+    "pause": 0.17,
+    "phrases": [
+      {
+        "hi": "दरवाज़ा खुला है। तभी टिकट पर नज़र गई।",
+        "roman": "Darwaaza khula hai. Tabhi ticket par nazar gayi.",
+        "hold": 0.14
+      },
+      {
+        "hi": "तीन सौ रुपये दिए हैं!",
+        "roman": "Teen sau rupaye diye hain!",
+        "hold": 0
+      }
+    ],
+    "start": 71.32404166666667,
+    "speech_end": 75.66525,
+    "end": 75.83525,
+    "cue": 74.34917,
+    "words": [
+      {
+        "hi": "दरवाज़ा",
+        "text": "Darwaaza",
+        "start": 71.42658,
+        "end": 71.97658
+      },
+      {
+        "hi": "खुला",
+        "text": "khula",
+        "start": 72.02658,
+        "end": 72.30158
+      },
+      {
+        "hi": "है।",
+        "text": "hai.",
+        "start": 72.35158,
+        "end": 72.62658
+      },
+      {
+        "hi": "तभी",
+        "text": "Tabhi",
+        "start": 72.67658,
+        "end": 72.92658
+      },
+      {
+        "hi": "टिकट",
+        "text": "ticket",
+        "start": 73.00158,
+        "end": 73.30158
+      },
+      {
+        "hi": "पर",
+        "text": "par",
+        "start": 73.35158,
+        "end": 73.52658
+      },
+      {
+        "hi": "नज़र",
+        "text": "nazar",
+        "start": 73.57658,
+        "end": 73.85158
+      },
+      {
+        "hi": "गई।",
+        "text": "gayi.",
+        "start": 73.90158,
+        "end": 74.16983
+      },
+      {
+        "hi": "तीन",
+        "text": "Teen",
+        "start": 74.34917,
+        "end": 74.62417
+      },
+      {
+        "hi": "सौ",
+        "text": "sau",
+        "start": 74.69917,
+        "end": 74.87417
+      },
+      {
+        "hi": "रुपये",
+        "text": "rupaye",
+        "start": 74.92417,
+        "end": 75.19917
+      },
+      {
+        "hi": "दिए",
+        "text": "diye",
+        "start": 75.24917,
+        "end": 75.42417
+      },
+      {
+        "hi": "हैं!",
+        "text": "hain!",
+        "start": 75.47417,
+        "end": 75.66525
+      }
+    ]
+  },
+  {
+    "id": "refund",
+    "speech": "पर तुम उठो या बैठे रहो, वो पैसे तो जा चुके।",
+    "roman": "Par tum utho ya baithe raho, woh paise toh jaa chuke.",
+    "cue_word": "पैसे",
+    "action": "Hold on a crumpled, already-torn ticket stub.",
+    "pause": 0.18,
+    "phrases": [
+      {
+        "hi": "पर तुम उठो या बैठे रहो, वो पैसे तो जा चुके।",
+        "roman": "Par tum utho ya baithe raho, woh paise toh jaa chuke.",
+        "hold": 0
+      }
+    ],
+    "start": 75.83525,
+    "speech_end": 78.86229166666666,
+    "end": 79.04229166666667,
+    "cue": 77.85063,
+    "words": [
+      {
+        "hi": "पर",
+        "text": "Par",
+        "start": 75.87562,
+        "end": 76.05062
+      },
+      {
+        "hi": "तुम",
+        "text": "tum",
+        "start": 76.10063,
+        "end": 76.27563
+      },
+      {
+        "hi": "उठो",
+        "text": "utho",
+        "start": 76.32563,
+        "end": 76.60063
+      },
+      {
+        "hi": "या",
+        "text": "ya",
+        "start": 76.65063,
+        "end": 76.80062
+      },
+      {
+        "hi": "बैठे",
+        "text": "baithe",
+        "start": 76.85063,
+        "end": 77.17562
+      },
+      {
+        "hi": "रहो,",
+        "text": "raho,",
+        "start": 77.20063,
+        "end": 77.65063
+      },
+      {
+        "hi": "वो",
+        "text": "woh",
+        "start": 77.70063,
+        "end": 77.80062
+      },
+      {
+        "hi": "पैसे",
+        "text": "paise",
+        "start": 77.85063,
+        "end": 78.17562
+      },
+      {
+        "hi": "तो",
+        "text": "toh",
+        "start": 78.22563,
+        "end": 78.32563
+      },
+      {
+        "hi": "जा",
+        "text": "jaa",
+        "start": 78.37562,
+        "end": 78.52563
+      },
+      {
+        "hi": "चुके।",
+        "text": "chuke.",
+        "start": 78.57563,
+        "end": 78.86229
+      }
+    ]
+  },
+  {
+    "id": "choice",
+    "speech": "अब जो जा सकता है, वो तुम्हारा अगला घंटा है।",
+    "roman": "Ab jo jaa sakta hai, woh tumhaara agla ghanta hai.",
+    "cue_word": "घंटा",
+    "action": "The ticket stays the same as the clock sweeps onward.",
+    "pause": 0.3,
+    "phrases": [
+      {
+        "hi": "अब जो जा सकता है, वो तुम्हारा अगला घंटा है।",
+        "roman": "Ab jo jaa sakta hai, woh tumhaara agla ghanta hai.",
+        "hold": 0
+      }
+    ],
+    "start": 79.04229166666667,
+    "speech_end": 82.13616666666667,
+    "end": 82.43616666666667,
+    "cue": 81.56192,
+    "words": [
+      {
+        "hi": "अब",
+        "text": "Ab",
+        "start": 79.11192,
+        "end": 79.26192
+      },
+      {
+        "hi": "जो",
+        "text": "jo",
+        "start": 79.31192,
+        "end": 79.46192
+      },
+      {
+        "hi": "जा",
+        "text": "jaa",
+        "start": 79.51192,
+        "end": 79.68692
+      },
+      {
+        "hi": "सकता",
+        "text": "sakta",
+        "start": 79.73692,
+        "end": 80.08692
+      },
+      {
+        "hi": "है,",
+        "text": "hai,",
+        "start": 80.13692,
+        "end": 80.46192
+      },
+      {
+        "hi": "वो",
+        "text": "woh",
+        "start": 80.51192,
+        "end": 80.63692
+      },
+      {
+        "hi": "तुम्हारा",
+        "text": "tumhaara",
+        "start": 80.68692,
+        "end": 81.11192
+      },
+      {
+        "hi": "अगला",
+        "text": "agla",
+        "start": 81.18692,
+        "end": 81.51192
+      },
+      {
+        "hi": "घंटा",
+        "text": "ghanta",
+        "start": 81.56192,
+        "end": 81.93692
+      },
+      {
+        "hi": "है।",
+        "text": "hai.",
+        "start": 81.98692,
+        "end": 82.13617
+      }
+    ]
+  },
+  {
+    "id": "name",
+    "speech": "यही है संक कॉस्ट का जाल।",
+    "roman": "Yahi hai sunk cost ka jaal.",
+    "cue_word": "जाल",
+    "action": "The ticket and empty hole rhyme in a split composition.",
+    "pause": 0.18,
+    "phrases": [
+      {
+        "hi": "यही है संक कॉस्ट का जाल।",
+        "roman": "Yahi hai sunk cost ka jaal.",
+        "hold": 0
+      }
+    ],
+    "start": 82.43616666666667,
+    "speech_end": 84.22191666666667,
+    "end": 84.40191666666666,
+    "cue": 83.86454,
+    "words": [
+      {
+        "hi": "यही",
+        "text": "Yahi",
+        "start": 82.53954,
+        "end": 82.78954
+      },
+      {
+        "hi": "है",
+        "text": "hai",
+        "start": 82.83954,
+        "end": 82.96454
+      },
+      {
+        "hi": "संक",
+        "text": "sunk",
+        "start": 83.03954,
+        "end": 83.31454
+      },
+      {
+        "hi": "कॉस्ट",
+        "text": "cost",
+        "start": 83.36454,
+        "end": 83.66454
+      },
+      {
+        "hi": "का",
+        "text": "ka",
+        "start": 83.71454,
+        "end": 83.81454
+      },
+      {
+        "hi": "जाल।",
+        "text": "jaal.",
+        "start": 83.86454,
+        "end": 84.22192
+      }
+    ]
+  },
+  {
+    "id": "test",
+    "speech": "सोचो, टिकट मुफ़्त मिला होता, तो अभी भी बैठे रहते?",
+    "roman": "Socho, ticket muft mila hota, toh abhi bhi baithe rehte?",
+    "cue_word": "मुफ़्त",
+    "action": "The viewer looks at the door, stands up, then takes a step out.",
+    "pause": 0.36,
+    "phrases": [
+      {
+        "hi": "सोचो, टिकट मुफ़्त मिला होता,",
+        "roman": "Socho, ticket muft mila hota,",
+        "hold": 0.15
+      },
+      {
+        "hi": "तो अभी भी बैठे रहते?",
+        "roman": "toh abhi bhi baithe rehte?",
+        "hold": 0
+      }
+    ],
+    "start": 84.40191666666666,
+    "speech_end": 88.16,
+    "end": 88.52,
+    "cue": 85.35037,
+    "words": [
+      {
+        "hi": "सोचो,",
+        "text": "Socho,",
+        "start": 84.50038,
+        "end": 84.90037
+      },
+      {
+        "hi": "टिकट",
+        "text": "ticket",
+        "start": 84.95037,
+        "end": 85.27537
+      },
+      {
+        "hi": "मुफ़्त",
+        "text": "muft",
+        "start": 85.35037,
+        "end": 85.60037
+      },
+      {
+        "hi": "मिला",
+        "text": "mila",
+        "start": 85.65037,
+        "end": 85.87537
+      },
+      {
+        "hi": "होता,",
+        "text": "hota,",
+        "start": 85.90037,
+        "end": 86.25408
+      },
+      {
+        "hi": "तो",
+        "text": "toh",
+        "start": 86.43558,
+        "end": 86.58558
+      },
+      {
+        "hi": "अभी",
+        "text": "abhi",
+        "start": 86.63558,
+        "end": 86.93558
+      },
+      {
+        "hi": "भी",
+        "text": "bhi",
+        "start": 86.98558,
+        "end": 87.23558
+      },
+      {
+        "hi": "बैठे",
+        "text": "baithe",
+        "start": 87.33558,
+        "end": 87.71058
+      },
+      {
+        "hi": "रहते?",
+        "text": "rehte?",
+        "start": 87.73558,
+        "end": 88.16
+      }
+    ]
+  },
+  {
+    "id": "end",
+    "speech": "और गिलहरी? उसने पंजे झाड़े, पीछे मुड़ी। खाना तो वहीं था।",
+    "roman": "Aur gilhari? Usne panje jhaade, peechhe mudi. Khaana toh wahin tha.",
+    "cue_word": "पीछे",
+    "action": "She dusts both paws, turns, picks up the acorn from the opening and takes a bite.",
+    "pause": 0.65,
+    "phrases": [
+      {
+        "hi": "और गिलहरी?",
+        "roman": "Aur gilhari?",
+        "hold": 0.2
+      },
+      {
+        "hi": "उसने पंजे झाड़े, पीछे मुड़ी।",
+        "roman": "Usne panje jhaade, peechhe mudi.",
+        "hold": 0.16
+      },
+      {
+        "hi": "खाना तो वहीं था।",
+        "roman": "Khaana toh wahin tha.",
+        "hold": 0
+      }
+    ],
+    "start": 88.52,
+    "speech_end": 93.06266666666667,
+    "end": 93.71266666666666,
+    "cue": 90.94042,
+    "words": [
+      {
+        "hi": "और",
+        "text": "Aur",
+        "start": 88.59304,
+        "end": 88.76804
+      },
+      {
+        "hi": "गिलहरी?",
+        "text": "gilhari?",
+        "start": 88.84304,
+        "end": 89.50175
+      },
+      {
+        "hi": "उसने",
+        "text": "Usne",
+        "start": 89.76542,
+        "end": 90.06542
+      },
+      {
+        "hi": "पंजे",
+        "text": "panje",
+        "start": 90.11542,
+        "end": 90.39042
+      },
+      {
+        "hi": "झाड़े,",
+        "text": "jhaade,",
+        "start": 90.44042,
+        "end": 90.89042
+      },
+      {
+        "hi": "पीछे",
+        "text": "peechhe",
+        "start": 90.94042,
+        "end": 91.29042
+      },
+      {
+        "hi": "मुड़ी।",
+        "text": "mudi.",
+        "start": 91.34042,
+        "end": 91.68833
+      },
+      {
+        "hi": "खाना",
+        "text": "Khaana",
+        "start": 91.91475,
+        "end": 92.31475
+      },
+      {
+        "hi": "तो",
+        "text": "toh",
+        "start": 92.36475,
+        "end": 92.46475
+      },
+      {
+        "hi": "वहीं",
+        "text": "wahin",
+        "start": 92.51475,
+        "end": 92.76475
+      },
+      {
+        "hi": "था।",
+        "text": "tha.",
+        "start": 92.78975,
+        "end": 93.06267
+      }
+    ]
+  }
+]
